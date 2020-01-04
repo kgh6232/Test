@@ -7,3 +7,5 @@ TEST
 20200101 in Windows
 [[[[원격 수정]]]]
 git hub에서 수정
+
+sourceTree에서 수정
